@@ -5,6 +5,11 @@ title: "Paid inquiry: technical docs cleanup"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-technical-docs-cleanup.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/technical-docs-cleanup-starter/inquiry.html
+
 ## Buyer Request
 
 - Public docs or README URL:
