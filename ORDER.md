@@ -1,5 +1,10 @@
 # Order The Technical Docs Cleanup
 
+Structured ready-to-pay issue form:
+
+https://github.com/jaxassistant55/technical-docs-cleanup-starter/issues/new?template=ready-to-pay-technical-docs-cleanup-starter.yml
+
+
 Use the public scope builder first:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/technical-docs-audit-brief-builder.html
@@ -55,6 +60,11 @@ Paste a seller-owned checkout, invoice, marketplace order, funded milestone, or 
 
 Do not post private data, payment screenshots, API keys, customer records, or sensitive files in GitHub issues.
 ## Direct Repo Order Board
+
+For structured intake instead of a free-form comment, open:
+
+https://github.com/jaxassistant55/technical-docs-cleanup-starter/issues/new?template=ready-to-pay-technical-docs-cleanup-starter.yml
+
 
 Use this repo-specific order board for the lowest-friction public buyer comment path:
 

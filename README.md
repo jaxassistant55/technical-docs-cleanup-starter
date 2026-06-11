@@ -5,6 +5,7 @@ Free public preview for a fixed-scope Technical Docs Cleanup.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/technical-docs-cleanup.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/technical-docs-cleanup-starter/issues/new?template=ready-to-pay-technical-docs-cleanup-starter.yml
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-technical-docs-cleanup.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/technical-docs-cleanup-starter/inquiry.html
