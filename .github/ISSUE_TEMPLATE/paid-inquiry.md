@@ -7,6 +7,7 @@ labels: paid-inquiry, needs-scope
 
 ## Fastest Buyer Links
 
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-technical-docs-cleanup.html
 - Prefilled inquiry page: https://jaxassistant55.github.io/technical-docs-cleanup-starter/inquiry.html
 
